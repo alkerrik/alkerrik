@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+My name is Aleksandr.I am a student. I like develop different sites on react.
 <!--
 **alkerrik/alkerrik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
